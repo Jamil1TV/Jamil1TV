@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=jamil1tv&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F193908116%3Fu%3D9e7b4bacc12d2a3e2388d451c9d13408aee3b15d%26v%3D4" alt="jamil1tv hero visual" />
 </p>
 
-<p align="center"><b>Mohamed Jamil</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center"><b>Mohamed Jamil</b> ·full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/jamil1tv">GitHub</a></p>
 
